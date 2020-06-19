@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import numpy as np
 def plus_minus(a):
     a = np.array(a)
@@ -14,4 +8,3 @@ def plus_minus(a):
         else:
             sum += i + 1
     return(sum)
-
