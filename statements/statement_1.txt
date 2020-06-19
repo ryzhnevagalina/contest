@@ -1,0 +1,12 @@
+\begin{problem}{Плюс к отрицательной сумме, минус - к положительной [Numpy]}{stdin}{stdout}{1 second(s)}{64 MiB}
+ Напишите функцию $\text{plus_minus}$, которая принимает на вход numpy-массив, прибавляет единицу к отрицательной сумме массива, отнимает единицу от положительной суммы.
+\InputFile
+
+\OutputFile
+
+\Examples
+\begin{example}
+\exmp{-5 -2 3}{-3}
+\end{example}\Note
+ При сдаче этого задания выберите компилятор make2
+\end{problem}
